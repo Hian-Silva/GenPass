@@ -1,4 +1,4 @@
-let values = ['CatOnion', '44.5', 'JDONMySoul', 'YoDayo', 'Friend', 'Faq', 'Akaina', 'UUU', 'BibooTax', 'IAmGod', 'OhNyoo', 'Ahoy', 'NunNun', 'Beeeeg', 'A', 'Wah', 'TOMORROW', 'Today', 'BauBau', 'Shuba', "ItsAlive", 'FaqingMonkey', 'ImDieThankYouForever', 'DogoIsHuman', 'Pardun', 'GyatForNerizler', 'DochiDochi', 'Hachamachama', 'Guh', 'WatameWaWarukunaiYoNe', '1to6']
+let values = ['CatOnion', '44.5', 'JDONMySoul', 'YoDayo', 'Friend', 'Faq', 'Akaina', 'UUU', 'BibooTax', 'IAmGod', 'OhNyoo', 'Ahoy', 'NunNun', 'Beeeeg', 'A', 'Wah', 'TOMORROW', 'Today', 'BauBau', 'Shuba', "ItsAlive", 'FaqingMonkey', 'ImDieThankYouForever', 'DoggoIsHuman', 'Pardun', 'GyatForNerizler', 'DochiDochi', 'Hachamachama', 'Guh', 'WatameWaWarukunaiYoNe', '1to6']
 
 const btn = document.getElementsByTagName('button');
 const visor = document.querySelector(`.visor`);
